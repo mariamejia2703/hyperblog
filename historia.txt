@@ -2,6 +2,7 @@ Esta es la historia de isa
 isa tiene 20 años 
 nacio en colombia
 experimento1
+experimento2
 master1
 
 master2
