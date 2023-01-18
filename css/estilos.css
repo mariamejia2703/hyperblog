@@ -38,8 +38,12 @@ body
     font-size: 30px ;
 }
 
-#post
+
+
+#footer
 {
-    background: white;
-    padding: 1em;
+    background: #777; 
+    color: rgb(228, 20, 106);
+    text-align: center;
+    padding: 0.5em;
 }
